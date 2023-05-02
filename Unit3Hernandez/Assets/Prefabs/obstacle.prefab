@@ -13,10 +13,10 @@ GameObject:
   - component: {fileID: 6125614854699601481}
   - component: {fileID: 3725237173836213434}
   - component: {fileID: 2376612939344657793}
-  - component: {fileID: 3116690745783758952}
+  - component: {fileID: 6492067498889946618}
   m_Layer: 0
   m_Name: obstacle
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -115,7 +115,7 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!114 &3116690745783758952
+--- !u!114 &6492067498889946618
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
